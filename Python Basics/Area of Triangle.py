@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 18 13:00:25 2022
 
-@author: Amrutha
+
 """
 import math
 x = int(input('Triangle 1 and Rectangle 2:'))
