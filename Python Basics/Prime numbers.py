@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 19 16:42:40 2022
 
-@author: Amrutha
+
 """
 e = int(input("Prime number's from:"))
 r = int(input("Prime number's upto:"))
