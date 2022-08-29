@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 17 12:35:32 2022
 
-@author:Amrutha
+
 """
 c = int(input('Input:'))
 a = c//4
