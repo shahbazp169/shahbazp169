@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 19 18:24:31 2022
 
-@author: Amrutha
+
 """
 x = int(input('Factorial of :'))
 Factorial = []
