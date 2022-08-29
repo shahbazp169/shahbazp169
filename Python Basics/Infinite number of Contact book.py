@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 17 11:42:57 2022
 
-@author: Amrutha
+
 """
 x = 0
 j = int(input('No. of contact numbers:'))
