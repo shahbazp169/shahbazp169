@@ -2,7 +2,6 @@
 """
 Created on Sat Jun 18 23:25:28 2022
 
-@author: Amrutha
 """
 import math
 for i in range(0,20000):
