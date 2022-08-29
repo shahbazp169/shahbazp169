@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 17 19:00:15 2022
 
-@author: Amrutha
+
 """
 a = int(input('Input pattern:'))
 x=0
