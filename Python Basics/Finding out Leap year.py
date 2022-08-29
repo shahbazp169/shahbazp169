@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 19 19:11:58 2022
 
-@author: Amruthamol N A
+
 """
 x = int(input('Type the year:'))
 
