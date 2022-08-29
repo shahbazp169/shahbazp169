@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 18 10:45:12 2022
 
-@author: Amrutha
+
 """
 b=int(input('Fibonacci series upto:'))
 def f(x):
